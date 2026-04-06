@@ -26,16 +26,6 @@
 
 ---
 
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-# 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshal844600&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</p>
-
----
-
 <!-- ===================== TECH STACK ===================== -->
 
 # ⚡ Tech Stack  
@@ -53,21 +43,6 @@
 ### 🧰 Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshal844600&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal844600&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal844600&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
