@@ -1,15 +1,13 @@
-{
-  "name": "Divansh bajaj",
-  "created_at": "2021-09-30T03:48:54Z",
-  "public_repos": 31,
-  "followers": 5,
-  "stars": 13,
-  "languages": {
-    "JavaScript": 463088,
-    "TypeScript": 216832,
-    "Python": 161427,
-    "CSS": 46475,
-    "HTML": 33372,
-    "Jupyter Notebook": 17694
-  }
+﻿{
+    "name":  "Harshal Vidhate",
+    "followers":  3,
+    "stars":  0,
+    "public_repos":  19,
+    "created_at":  "2023-10-05T09:10:44Z",
+    "languages":  {
+                      "TypeScript":  7,
+                      "HTML":  3,
+                      "JavaScript":  3,
+                      "CSS":  2
+                  }
 }

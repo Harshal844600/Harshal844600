@@ -27,18 +27,18 @@ def load(name, default=None):
     path = os.path.join(DATA, name)
     if not os.path.exists(path):
         return default
-    with open(path) as f:
+    with open(path, "r", encoding="utf-8-sig") as f:
         return json.load(f)
 
 
 def save(name, obj):
     os.makedirs(DATA, exist_ok=True)
-    with open(os.path.join(DATA, name), "w") as f:
+    with open(os.path.join(DATA, name), "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=2)
 
 
 def write_svg(name, svg):
-    with open(os.path.join(ROOT, name), "w") as f:
+    with open(os.path.join(ROOT, name), "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"wrote {name} ({len(svg) // 1024} KB)")
 

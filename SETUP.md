@@ -32,7 +32,7 @@ GitHub shows the README of a repo named **exactly like your username** on your p
 ## 3. Copy this project
 
 ```bash
-git clone https://github.com/DIV297/DIV297.git YOUR_USERNAME
+git clone https://github.com/Harshal844600/Harshal844600.git YOUR_USERNAME
 cd YOUR_USERNAME
 rm -rf .git data/*.json *.svg source-photo.png source-prepped.png
 git init -b main
