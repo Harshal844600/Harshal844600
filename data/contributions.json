@@ -2,41 +2,6 @@
   "username": "Harshal844600",
   "days": [
     {
-      "date": "2025-11-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-11-23",
       "level": 1,
       "count": 1
@@ -1853,19 +1818,24 @@
     },
     {
       "date": "2026-11-21",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-11-22",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 669,
-    "current_streak": 38,
-    "longest_streak": 38,
+    "total": 670,
+    "current_streak": 39,
+    "longest_streak": 39,
     "best_day": {
       "date": "2026-07-25",
       "count": 25
     },
-    "active_days": 172,
+    "active_days": 173,
     "busiest_weekday": "Sunday",
     "monthly": {
       "2025-11": 8,
@@ -1880,11 +1850,11 @@
       "2026-08": 134,
       "2026-09": 133,
       "2026-10": 82,
-      "2026-11": 34
+      "2026-11": 35
     },
     "range": [
-      "2025-11-16",
-      "2026-11-21"
+      "2025-11-23",
+      "2026-11-22"
     ]
   }
 }
