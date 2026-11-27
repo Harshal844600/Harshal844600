@@ -1843,19 +1843,24 @@
     },
     {
       "date": "2026-11-26",
+      "level": 1,
+      "count": 4
+    },
+    {
+      "date": "2026-11-27",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total": 679,
-    "current_streak": 43,
-    "longest_streak": 43,
+    "total": 683,
+    "current_streak": 44,
+    "longest_streak": 44,
     "best_day": {
       "date": "2026-07-25",
       "count": 25
     },
-    "active_days": 177,
+    "active_days": 178,
     "busiest_weekday": "Sunday",
     "monthly": {
       "2025-11": 8,
@@ -1870,11 +1875,11 @@
       "2026-08": 134,
       "2026-09": 133,
       "2026-10": 82,
-      "2026-11": 44
+      "2026-11": 48
     },
     "range": [
       "2025-11-23",
-      "2026-11-26"
+      "2026-11-27"
     ]
   }
 }
